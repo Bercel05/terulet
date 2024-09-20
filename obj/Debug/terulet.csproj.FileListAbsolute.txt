@@ -1,0 +1,7 @@
+C:\Users\markusb\Gitwork\terulet\bin\Debug\terulet.exe.config
+C:\Users\markusb\Gitwork\terulet\bin\Debug\terulet.exe
+C:\Users\markusb\Gitwork\terulet\bin\Debug\terulet.pdb
+C:\Users\markusb\Gitwork\terulet\obj\Debug\terulet.csproj.AssemblyReference.cache
+C:\Users\markusb\Gitwork\terulet\obj\Debug\terulet.csproj.CoreCompileInputs.cache
+C:\Users\markusb\Gitwork\terulet\obj\Debug\terulet.exe
+C:\Users\markusb\Gitwork\terulet\obj\Debug\terulet.pdb
